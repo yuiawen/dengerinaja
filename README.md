@@ -1,3 +1,3 @@
 # dengerinaja
 
-https://dengerinaja.vercel.app/playlist
+https://dengerinaja.vercel.app
